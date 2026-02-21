@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "眠れぬ夜は君のせい",
+  "base_artist": "MISIA",
+  "createdAt": "2026-02-21T17:06:24.875052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眠れぬ夜は君のせい",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/01_眠れぬ夜は君のせい_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "眠れぬ夜は君のせい",
+      "artist": "米希亞",
+      "has_synced": true,
+      "path": "select/02_眠れぬ夜は君のせい_米希亞.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "眠れぬ夜は君のせい",
+      "artist": "Tiara",
+      "has_synced": true,
+      "path": "select/03_眠れぬ夜は君のせい_Tiara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "眠れぬ夜は君のせい",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/04_眠れぬ夜は君のせい_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "眠れぬ夜は君のせい",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/05_眠れぬ夜は君のせい_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "眠れぬ夜は君のせい - 星空のライヴ〜The Best of Acoustic Ballade〜",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/06_眠れぬ夜は君のせい_-_星空のライヴ〜The_Best_of_Acoustic_Ballade〜_MISIA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眠れぬ夜は君のせい",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/pl_01_眠れぬ夜は君のせい_MISIA.txt"
+    }
+  ]
+}
